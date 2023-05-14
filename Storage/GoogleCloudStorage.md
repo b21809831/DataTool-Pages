@@ -1,6 +1,12 @@
-Google Cloud Storage: A robust and unified object storage for developers and enterprises, it can handle everything from live data serving to data analytics and machine learning.
+Google Cloud Storage
+
+GCS A robust and unified object storage for developers and enterprises, it can handle everything from live data serving to data analytics and machine learning.
 
 Link: https://cloud.google.com/storage
+
+Scalable: Google Cloud Storage is designed to scale as your usage expands, with no limit on the total amount of data stored or the number of objects in a bucket.
+Visual: With Google Cloud Console, you can visually monitor your storage usage.
+
 
 Google Cloud Storage: A robust and unified object storage for developers and enterprises, it can handle everything from live data serving to data analytics and machine learning.
 
