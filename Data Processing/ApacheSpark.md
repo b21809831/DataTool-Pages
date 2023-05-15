@@ -3,6 +3,10 @@ Apache Spark: A unified analytics engine for big data processing, with built-in 
 
 Link:https://spark.apache.org/
 
+Scalable: Spark is designed for fast computation and supports a wide range of computation tasks.
+Modular: Spark supports multiple data sources and allows computations to be written in a variety of programming languages.
+
+
 Supervised Learning: Apache Spark's MLlib library provides several algorithms for supervised learning.
 
 Time Series Analysis: Libraries like Flint provide capabilities for time series analysis on Spark.
